@@ -57,7 +57,7 @@ After extracting and merging the mentioned data frames, our team made the follow
 * Established correct data types for each attribute
 
 ## Exploratory Data Analysis
-Below are some few highlights from my EDA:
+Below are some highlights from my EDA:
 ![](images/correlation_matrix.png)
 ![](images/grad_temp_scatter.png)
 ![](images/features_boxplot.png)
@@ -66,16 +66,11 @@ Below are some few highlights from my EDA:
 ![](images/funding_borough.png)
 
 ## Modeling
-
-## Datafolio
-
-## Tableau Storyboard
+![](images/OLS_results.png)
+![](images/classification_analysis.png)
 
 ## Contributors
-
-**Team 23 Members:**
-
-Bryan Garcia 
+### **This project would not have been possible without my amazing team:**
 
 Noah Morton
 
